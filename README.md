@@ -1,5 +1,11 @@
 # Github Kanban Board
 
+## Demo
+
+Check out the live demo of the project here:
+
+[Demo Link](https://srtrace.github.io/Github-Kanban-Board/)
+
 ## Implement GitHub repo issues viewer as a kanban board
 
 ### Requirements
